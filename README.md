@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jstein-pareto
-- 👀 I’m interested in responsive web apps
-- 🌱 I’m currently learning TypeScript, React
-- 💞️ I’m looking to collaborate on a secure, private journalling app
-- 📫 How to reach me ???
+- 👀 I’m interested in designing & coding responsive web apps
+- 🌱 I’m currently learning React & TypeScript
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me jstein at paretointel dot com
 
 <!---
 jstein-pareto/jstein-pareto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
